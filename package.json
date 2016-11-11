@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "%PDF-1.4\r%����\r 11 0 obj\r<</Linearized 1/L 8491/O 13/E 2157/N 3/T 8188/H [ 458 164]>>\rendobj\r                     \r 17 0 obj\r<</DecodeParms<</Columns 4/Predictor 12>>/Filter/FlateDecode/ID[<4D40AD8BBE70F5116E56C18F750D120E><13E42EC949B7D94392C30091AC1AE6BB>]/Index[11 12]/Info 10 0 R/Length 56/Prev 8189/Root 12 0 R/Size 23/Type/XRef/W[1 2 1]>>stream\r h�bbd\u0010``b`�\u0003\u0012\fI@��0�`�\u0003�v\u0002���\u0018�\u0018\u0019f�d\u0019\u0018�\u0004�\b�?���\u0000\u0001\u0006\u0000��\b�\r endstream\rendobj\rstartxref\r 0\r %%EOF",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
